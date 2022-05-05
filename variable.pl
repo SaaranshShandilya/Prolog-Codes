@@ -1,0 +1,2 @@
+car('maruti').
+car('bugatti').
